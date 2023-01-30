@@ -20,11 +20,11 @@ const About = () => {
 
   return (
     <>
-      <h2 className='head-text'> The best code is always written with the user in mind
-        <span> It is my mission as a Developer to create solutions</span>
+      <h2 className='head-text'> I know that
+        <span> Good Apps</span>
         <br />
-        that
-        <span> are not only innovative but intuitive and enjoyable to use</span>
+        means
+        <span>Good buisness</span>
       </h2>
 
       <div className='app__profiles'>
