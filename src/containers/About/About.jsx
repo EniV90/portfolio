@@ -20,13 +20,15 @@ const About = () => {
 
   return (
     <>
-      <h2 className='head-text'> I know that
-        <span> Good Apps</span>
+      <h2 className='head-text'> The function of good 
+        <span> Software </span>
         <br />
-        means
-        <span>Good buisness</span>
+        is to make complex appear 
+        <br />
+        <span>Simple</span>
+        
       </h2>
-
+        <br />
       <div className='app__profiles'>
         {abouts.map((about, index) => (
           <motion.div
