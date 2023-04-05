@@ -36,7 +36,7 @@ const [loading, setLoading] = useState(false)
 
   return (
     <>
-      <h2 className='head-text'>Take a coffe & chat with me</h2>
+      <h2 className='head-text'>Take a coffee & chat with me</h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card">
