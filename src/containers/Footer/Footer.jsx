@@ -62,7 +62,7 @@ const [loading, setLoading] = useState(false)
               className='p-text'
               placeholder='Your Message'
               value={message}
-              name={message}
+              name="message"
               onChange={handleChangeInput}
             />
           </div>
